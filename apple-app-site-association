@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7R68585MGW.com.example.deep_linking_lab",  // Replace TEAMID with your Apple developer team ID and the bundle identifier
+                "paths": ["/deep-link/*"]
+            }
+        ]
+    }
+}
